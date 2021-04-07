@@ -4,3 +4,7 @@
 
 #######This is my Heading 6
 
+##How do I use github
+- Item 1
+- Item 2
+- Item 3
