@@ -12,4 +12,4 @@
 *Italics*
 **Bold**
 
-[Star Wars.com](https://www.starswars.com)
+-[Star Wars.com](https://www.starswars.com)
