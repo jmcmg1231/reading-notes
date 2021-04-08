@@ -21,4 +21,4 @@
 
 ## What is Growth mindset
 
-Growth mindset is having belief in yourself that you can accomplish any task no matter hard it gets. When your faced with obstacles you will focus harder by being persistent when challenges arise. You will tackle complex problems and look for best solutions on how to solve them. When challenges come you welcome it, you don't hide. 
+Growth mindset is having belief in yourself that you can accomplish any task no matter hard it gets. When your faced with obstacles you will focus harder by being persistent when challenges arise. You will have to tenacity to tackle complex problems and look for best solutions on how to solve them. When challenges come you welcome it.
