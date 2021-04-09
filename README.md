@@ -29,4 +29,4 @@ Growth mindset is having belief in yourself that you can accomplish any task no 
 
 - ![image](![image](![image](https://live.staticflickr.com/1954/43058632290_14a91a9a2f_z.jpg)
 
-- you can find scientific research done on the growth mindset concept @ this link [mindsetworks.com](https://www.https://www.mindsetworks.com/science/)
+- you can find scientific research done on the growth mindset concept @ [mind setworks.com](https://www.https://www.mindsetworks.com/science/)
