@@ -14,8 +14,6 @@
 
 - [Airbnb.com](https://www.Airbnb.com)
 
-- ![image](![image](![image](https://live.staticflickr.com/1954/43058632290_14a91a9a2f_z.jpg)
-
 
 # This is my notes on markdown
 
@@ -27,3 +25,6 @@ Growth mindset is having belief in yourself that you can accomplish any task no 
 - learn something new daily
 - take a step back look at what I have accomplish when I start to get frustrated
 - remind myself what the end goal will look like
+
+
+- ![image](![image](![image](https://live.staticflickr.com/1954/43058632290_14a91a9a2f_z.jpg)
