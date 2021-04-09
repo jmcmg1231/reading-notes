@@ -1,20 +1,3 @@
-# This is my Heading 1
-
-## This is my Heading 2
-
-####### This is my Heading 6
-
-## How do I use github
-- Item 1
-- Item 2
-- Item 3
-
-*Italics*
-**Bold**
-
-- [Airbnb.com](https://www.Airbnb.com)
-
-
 # This is my notes on markdown
 
 ## What is ***Growth Mindset***
@@ -30,3 +13,6 @@ Growth mindset is having belief in yourself that you can accomplish any task no 
 - ![image](![image](![image](https://live.staticflickr.com/1954/43058632290_14a91a9a2f_z.jpg)
 
 - you can find scientific research done on the growth mindset concept @ [mindsetworks.com](https://www.mindsetworks.com/science/)
+
+** Hello everyone I name is Juan and this is my link **
+- 
