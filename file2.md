@@ -1,4 +1,8 @@
-# Canopy Flight
-* Canopy Flies normally at its set glide slope or path
-* Forward movement and fall rate is greatly affected by the suspended weight
-* Control the canopy's angle of attack using the toggles, risers trim tabs and harness shift
+# CODE 201: Foundations of  Software Development
+  1. Introductory HTML and JavaScript
+
+  2. Basics of HTML, CSS & JS
+
+  3. HTML Lists, CSS Boxes, JS Control Flow
+
+  4. HTML Links, CSS Layout, JS Function

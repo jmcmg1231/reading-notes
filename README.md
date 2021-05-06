@@ -1,12 +1,12 @@
 # Introduction
-During MFF operations a jumper must have the knowledge and skill to control the canopy to allow for proper grouping and landing techniques for a successful MFF insertion. 
+Hello, my name Juan Cruz.  I have been married 18 years and have four boys and one girl. I am from Orlando, Fl and love to go to the beach, doing Crossfit, Skydiving, shooting and reading books.
 
 ## Table of Contents 
 
-1. [MC -4 RAM air Parachute](file1.md)
-2. [Canopy control](file2.md)
-3. [Toggle and Riser Control]()
-4. [Trim Tabs]()
+1. [Code 102: Intro to Sofware Development](file1.md)
+2. [Code 201: Foundations of Software Development](file2.md)
+3. [Code 301: Intermediate Software Development](file3.md)
+4. [Code 401: Advanced Software Development Python](file.md)
 
 
 
